@@ -1,6 +1,8 @@
 # Documentação - Importe Bases UFs
 
-**As capas de tributações que estão montadas são de:** AC, AL, AM, AP, MS, PA, PB, PI, TO
+**As capas de tributações que estão montadas são de:** AC, AL, AM, AP, MS, PA, PB, PI e TO.
+
+Sendo as capas de AC, MS, PB e PI já estão importadas em nosso banco de dados.
 
 As novas bases importadas foram de PB, PI, MS e AC. As bases de PB e PI não foram encontradas tributações com reduções de cesta básica.
 
