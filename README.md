@@ -4,7 +4,7 @@
 
 Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
-|***ESTADO***  |***UF*** | ***IMPORTADO*** | 
+|***ESTADO***  |***UF*** | ***IMPORTAÇÃO*** | 
 | ----------| --------------| ----------|
 | ACRE | AC | IMPORTADO |
 | ALAGOAS | AL | TRATAR DADOS |
