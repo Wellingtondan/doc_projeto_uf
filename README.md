@@ -52,7 +52,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 | Fonseca | SP |
 
 - Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem tratados os dados e importados em nosso banco.
-- Totalizando a soma de 12 UFs de clientes em nosso banco
+- Totalizando a soma de 12 UFs de clientes em nosso banco.
 
 > [!IMPORTANT]
 > Para finalizar a base de tributação de SP, será necessário clonar os dados da Aba Indústria para a Aba distrbuidor, e considerar para a aba MIcro empresa o MVA Original nas linhas interestaduais e para a resolução 13, e realizar uma conferência das CST Entrada/Saída para finalizar!
