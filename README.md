@@ -63,5 +63,5 @@ Com a importação de 12 bases de tributação de clientes e o desenvolvimento d
 
 ## 5. Parecer
 
-Como temos um tempo de análise para os projetos tributários (Sofia) a estrutura da base de tributação que for contratados os serviços, terá um período de validação dos dados informados na grade para conferência 
+Como temos um tempo de análise para os projetos tributários (Sofia), a estrutura da base de tributação contratada terá um período de validação dos dados informados na grade para conferência pelos analistas. Sendo assim, desenvolvi as capas ST com combinações de NCM e CEST, abrangendo os segmentos principais utilizados pelos nossos clientes. Baseando-me no cliente Serve Bem, por outro lado, foi necessário adicionar em alguns estados outras tributações, como a de "Carne", devido ter o alcance da Substituição Tributária (ST).
 
