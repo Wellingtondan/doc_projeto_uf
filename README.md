@@ -1,4 +1,4 @@
-# Documentação - Importe Bases UFs
+# Documentação - Importação novas bases UFs
 
 ## 1. Criação das capas de estados não atendidos
 
@@ -57,7 +57,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 > [!IMPORTANT]
 > Para finalizar a base de tributação de SP, será necessário clonar os dados da Aba Indústria para a Aba distrbuidor, e considerar para a aba MIcro empresa o MVA Original nas linhas interestaduais e para a resolução 13, e realizar uma conferência das CST Entrada/Saída para finalizar!
 
-## Total de bases
+## 4. Total de bases
 
 Com a importação de 12 bases de tributação de clientes e o desenvolvimento de 5 novas bases, alcançamos até o momento um total de 17 bases de Unidades Federativas (UFs).
 
