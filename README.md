@@ -34,7 +34,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 **Observação:** AP e PI foram montadas tributações de bebidas frias considerando o MVA para `Indústria / Importador` ou `Distribuidor / depósito / estabelecimento atacadista`, assim também para ***TO*** quando for desenvolvida a base.
 
-![image](https://github.com/Wellingtondan/doc_projeto_uf/assets/119419112/d65a1dc7-a1fc-4976-9a57-b8c2eff26a23)
+>![image](https://github.com/Wellingtondan/doc_projeto_uf/assets/119419112/d65a1dc7-a1fc-4976-9a57-b8c2eff26a23)
 
 ## 3. Base de tributações importadas de clientes
 
