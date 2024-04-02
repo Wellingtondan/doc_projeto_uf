@@ -4,16 +4,16 @@
 
 Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
-|***ESTADO***  |***UF*** | ***IMPORTAÇÃO*** | 
+|***ESTADO***  |***UF*** | ***IMPORTADO*** | 
 | ----------| --------------| ----------|
-| ACRE | AC | IMPORTADO |
+| ACRE | AC | SIM |
 | ALAGOAS | AL | TRATAR DADOS |
 | AMAZONAS | AM | TRATAR DADOS |
-| AMAPÁ | AP | IMPORTADO |
-| MATO GROSSO DO SUL | MS | IMPORTADO |
+| AMAPÁ | AP | SIM |
+| MATO GROSSO DO SUL | MS | SIM |
 | PARÁ | PA | TRATAR DADOS |
-| PARAÍBA | PB | IMPORTADO |
-| PIAUÍ | PI | IMPORTADO |
+| PARAÍBA | PB | SIM |
+| PIAUÍ | PI | SIM |
 | RONDÔNIA | RO | TRATAR DADOS |
 | TOCANTINS | TO | TRATAR DADOS |
 
