@@ -61,7 +61,16 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 Com a importação de 12 bases de tributação de clientes e o desenvolvimento de 5 novas bases, alcançamos até o momento um total de 17 bases de Unidades Federativas (UFs).
 
-## 5. Parecer
+## 5. conclusão
 
 Como temos um tempo de análise para os projetos tributários (Sofia), a estrutura da base de tributação contratada terá um período de validação dos dados informados na grade para conferência pelos analistas. Sendo assim, desenvolvi as capas ST com combinações de NCM e CEST, abrangendo os segmentos principais utilizados pelos nossos clientes. Baseando-me no cliente Serve Bem, por outro lado, foi necessário adicionar em alguns estados outras tributações, como a de "Carne", devido ter o alcance da Substituição Tributária (ST).
+
+```Questionamentos para analisarmos em reunião```
+
+Como serão feitas as conferências dos estados não atendidos?
+
+E quanto às atualizações? Faremos em intervalos regulares? Mensal, trimestral, semestral ou anualmente? Ou apenas quando forem contratados novos serviços tributários?
+
+
+
 
