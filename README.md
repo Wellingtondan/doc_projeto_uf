@@ -61,3 +61,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 Com a importação de 12 bases de tributação de clientes e o desenvolvimento de 5 novas bases, alcançamos até o momento um total de 17 bases de Unidades Federativas (UFs).
 
+## 5. Parecer
+
+Como temos um tempo de análise para os projetos tributários (Sofia) a estrutura da base de tributação que for contratados os serviços, terá um período de validação dos dados informados na grade para conferência 
+
