@@ -15,15 +15,12 @@ Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Se
 | RONDÔNIA | RO | TRATAR DADOS |
 | TOCANTINS | TO | TRATAR DADOS |
 
-Total de 5 tabela de capas importadas em nosso banco, isso se da por conta de tratar os dados conforme são identificados os benefícios de Cesta básica, Isenção, Redução específica, etc.
+Total de 5 tabelas de capas importadas em nosso banco, isso se da por conta de tratar os dados conforme são identificados os benefícios de Cesta básica, Isenção, Redução específica, etc.
 
 Após essa coleta de dados as capas são montadas e identificadas com as numerações para criação da grade UF do estado.
 
+**As capas de tributações importadas:** `AC, AP, MS, PB e PI.`
 
-
-**As capas de tributações que estão montadas são de:** AC, AL, AM, AP, MS, PA, PB, PI e TO.
-
-Foram importadas em nosso banco de dadosas as capas de AC, AP, MS, PB e PI.
 
 As novas bases importadas foram de PB, PI, MS e AC. As bases de PB e PI não foram encontradas tributações com reduções de cesta básica.
 
