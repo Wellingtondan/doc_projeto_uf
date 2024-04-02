@@ -1,6 +1,6 @@
 # Documentação - Importe Bases UFs
 
-Iniciamos esse novo projeto no dia 04/03/2024 e com base na tabela de capas do Serve Bem (RJ) que foram criadas as capas dos estados: 
+Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
 |***ESTADO***  |***UF*** | ***IMPORTADO*** | 
 | ----------| --------------| ----------|
@@ -15,7 +15,9 @@ Iniciamos esse novo projeto no dia 04/03/2024 e com base na tabela de capas do S
 | RONDÔNIA | RO | TRATAR DADOS |
 | TOCANTINS | TO | TRATAR DADOS |
 
+Total de 5 tabela de capas importadas em nosso banco, isso se da por conta de tratar os dados conforme são identificados os benefícios de Cesta básica, Isenção, Redução específica, etc.
 
+Após essa coleta de dados as capas são montadas e identificadas com as numerações para criação da grade UF do estado.
 
 
 
