@@ -38,7 +38,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 ## 3. Base de tributações importadas de clientes
 
-|***CLIENTE***  |***UF*** | ***UF*** |
+|***CLIENTE***  |***UF*** | ***ESTADO*** |
 | ----------| --------------| --------------|
 | MEIRA | BA | BAHIA |
 | BIG BOX | DF | DISTRITO FEDERAL |
