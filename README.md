@@ -1,6 +1,6 @@
 # Documentação - Importe Bases UFs
 
-### 1. Criação das capas de estados não atendidos
+## 1. Criação das capas de estados não atendidos
 
 Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
@@ -30,11 +30,13 @@ Após o desenvolvimento das capas de tributações dos estados de AC, MS, PB, PI
 Esta em andamento a grade de tributação de AP, assim que finalizado, será importada a grade ao banco.
 
 > [!IMPORTANT]
->>As bases de PB e PI não foram encontradas tributações com reduções de cesta básica, sendo um número menor de tributações!
+> As bases de PB e PI não foram encontradas tributações com reduções de cesta básica, sendo um número menor de tributações!
 
-**Observação:** PI foram montadas tributações de bebidas frias considerando o MVA para Indústria ou Distribuidor, assim também para ***TO*** quando for montada a base.
+**Observação:** AP e PI foram montadas tributações de bebidas frias considerando o MVA para `Indústria / Importador` ou `Distribuidor / depósito / estabelecimento atacadista`, assim também para ***TO*** quando for desenvolvida a base.
 
-### 2. Base de tributações importadas de clientes
+![image](https://github.com/Wellingtondan/doc_projeto_uf/assets/119419112/d65a1dc7-a1fc-4976-9a57-b8c2eff26a23)
+
+## 3. Base de tributações importadas de clientes
 
 |***CLIENTE***  |***UF*** | 
 | ----------| --------------|
@@ -43,14 +45,19 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 | Big Box | GO |
 | Delmoro | MT | 
 | Bonanza | PE | 
-| Difal | MT | 
+| Difal | PR | 
 | Serve Bem | RJ | 
 | Bom Preço | RN | 
-| De Angelina | SC | 
+| De Angelina | SC |
+| Fonseca | SP |
 
-**Bases importadas de clientes:** BA (Meira), DF (Big Box), GO (Bog Box), MT (Delmoro), PE (Bonanza), PR (Difal), RJ (Serve Bem), RN (Bom Preço) e SC (De Angelina).
+- Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem tratados os dados e importados em nosso banco.
+- Totalizando a soma de 12 UFs de clientes em nosso banco
 
-Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem importados em nosso banco.
+> [!IMPORTANT]
+> Para finalizar a base de tributação de SP, será necessário clonar os dados da Aba Indústria para a Aba distrbuidor, e considerar para a aba MIcro empresa o MVA Original nas linhas interestaduais e para a resolução 13, e realizar uma conferência das CST Entrada/Saída para finalizar!
 
-Para finalizar a base de tributação de SP, será necessário clonar os dados da Aba Indústria para a Aba distrbuidor, e considerar para a aba MIcro empresa o MVA Original nas linhas interestaduais e para a resolução 13, e realizar uma conferência das CST Entrada/Saída para finalizar!
+## Total de bases
+
+Com a importação de 12 bases de tributação de clientes e o desenvolvimento de 5 novas bases, alcançamos até o momento um total de 17 bases de Unidades Federativas (UFs).
 
