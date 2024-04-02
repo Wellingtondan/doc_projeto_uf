@@ -38,18 +38,18 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 ## 3. Base de tributações importadas de clientes
 
-|***CLIENTE***  |***UF*** | 
-| ----------| --------------|
-| Meira | BA | 
-| Big Box | DF | 
-| Big Box | GO |
-| Delmoro | MT | 
-| Bonanza | PE | 
-| Difal | PR | 
-| Serve Bem | RJ | 
-| Bom Preço | RN | 
-| De Angelina | SC |
-| Fonseca | SP |
+|***CLIENTE***  |***UF*** | ***UF*** |
+| ----------| --------------| --------------|
+| MEIRA | BA | BAHIA |
+| BIG BOX | DF | DISTRITO FEDERAL |
+| BIG BOX | GO | GOIÁS |
+| DELMORO | MT | MATO GROSSO |
+| BONANZA | PE | PERNAMBUCO |
+| DIFAL | PR | PARANÁ |
+| SERVE BEM | RJ | RIO DE JANEIRO |
+| BOM PREÇO | RN | RIO GRANDE DO NORTE |
+| DE ANGELINA | SC | SANTA CATARINA |
+| FONSECA | SP | SÃO PAULO |
 
 - Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem tratados os dados e importados em nosso banco.
 - Totalizando a soma de 12 UFs de clientes em nosso banco.
