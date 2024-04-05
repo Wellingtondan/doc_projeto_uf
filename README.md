@@ -27,6 +27,8 @@ Iniciamos esse novo projeto no dia 01/03/2024, com base na tabela de capas do Se
 
 Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB e PI, foram estruturadas as grades de tributações por UF e importadas no banco de dados.
 
+`Observação:` Das capas que precisam ser tratados os dados, já foram coletadas todas as NCM e CEST que tem previsão de ST, faltando verificar quais serão utilizadas como capas, quais são as alíquotas, MVAs, benefícios, etc.
+
 Esta em andamento a grade de tributação de AP, assim que finalizado, será importada a grade ao banco.
 
 > [!IMPORTANT]
