@@ -52,6 +52,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 | DELMORO | MT | MATO GROSSO | **REVISAR** |
 | BIG BOX | DF | DISTRITO FEDERAL | **CONFERIDO** |
 | BIG BOX | GO | GOIÁS | **CONFERIDO** |
+| FONSECA | MG | MINAS GERAIS | **IMPORTAR** |
 | BONANZA | PE | PERNAMBUCO | **CONFERIDO** |
 | DIFAL | PR | PARANÁ | **REVISAR** |
 | SERVE BEM | RJ | RIO DE JANEIRO | **CONFERIDO** |
@@ -59,7 +60,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 | COQUEIROS | RS | RIO GRANDE DO SUL | **CONFERIDO** |
 | FONSECA | SP | SÃO PAULO | **FINALIZAR** |
 
-- Faltando exportar MG (Fonseca), assim que extraída do cliente irei tratar os dados e importar em nosso banco.
+- Faltando exportar MG (Fonseca), o arquivo foi extraído e falta apenas tratar os dados e importar em nosso banco.
 - Totalizando a soma de 12 UFs de clientes em nosso banco.
 
 > [!IMPORTANT]
