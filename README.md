@@ -1,6 +1,6 @@
 # Documentação - Importação novas bases UFs
 
-## 1. Criação das capas de estados não atendidos
+## 1. Criação das capas dos estados ainda não atendidos
 
 Iniciamos esse novo projeto no dia 01/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
