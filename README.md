@@ -27,7 +27,7 @@ Iniciamos esse novo projeto no dia 01/03/2024, com base na tabela de capas do Se
 
 Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB e PI, foram estruturadas as grades de tributações por UF e importadas no banco de dados.
 
-`Observação:` Das capas que precisam ser tratados os dados citadas no quadro acima, já foram coletadas todas as NCM e CEST que tem previsão de ST, faltando verificar quais serão utilizadas como capas, quais são as alíquotas, MVAs, benefícios, para dar andamento no próximo estado.
+`Observação:` Das capas que ```NÃO``` foram importadas ao banco conforme citadas no quadro acima, já foram coletadas todas as NCM e CEST com previsão de ST, faltando verificar quais serão utilizadas como capas, quais são as alíquotas, quais as MVAs e quais os benefícios fiscais, e assim dar andamento ao próximo estado.
 
 > [!IMPORTANT]
 > As bases de PB e PI não foram encontradas tributações com reduções de cesta básica, sendo um número menor de tributações!
