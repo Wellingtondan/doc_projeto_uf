@@ -65,7 +65,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 > [!IMPORTANT]
 > Para finalizar a base de tributação de SP, será necessário clonar os dados da Aba Indústria para a Aba distrbuidor, e considerar para a aba Micro empresa o MVA Original nas linhas interestaduais e para a resolução 13, e realizar uma conferência das CST Entrada/Saída para finalizar!
 > 
-> Não foi finalizada devido o início do desenvolvimento das novas bases para esse projeto!
+> Não foi finalizada devido o início do desenvolvimento das novas bases para esse projeto, priorizei as novas bases, e assim que possível farei a atualização!
 
 ## 4. Total de bases
 
