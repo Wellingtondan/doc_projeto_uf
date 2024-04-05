@@ -2,7 +2,7 @@
 
 ## 1. Criação das capas de estados não atendidos
 
-Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
+Iniciamos esse novo projeto no dia 01/03/2024, com base na tabela de capas do Serve Bem (RJ) foram criadas as capas dos estados do quadro abaixo: 
 
 |***ESTADO***  |***UF*** | ***IMPORTADO*** | 
 | ----------| --------------| ----------|
