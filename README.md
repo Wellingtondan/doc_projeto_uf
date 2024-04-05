@@ -37,11 +37,11 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 >![image](https://github.com/Wellingtondan/doc_projeto_uf/assets/119419112/d65a1dc7-a1fc-4976-9a57-b8c2eff26a23)
 
 > [!NOTE]
-> Para criar a grade de tributação foi utilizada a ferramenta Power Query para duplicar o número de tributação para cada UF;
+> - Para criar a grade de tributação foi utilizada a ferramenta Power Query para duplicar o número de tributação para cada UF;
 > 
-> Com a ferramenta aberta, adicione uma nova coluna em "Adicionar Coluna - Coluna Personalizada" e insere o comando "= {"AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "EX", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"}";
+> - Com a ferramenta aberta, adicione uma nova coluna em "Adicionar Coluna - Coluna Personalizada" e insere o comando "= {"AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "EX", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"}";
 > 
-> E para duplicar as UFs para os tipos de tributações foi utilizado esse comando para inserir "= {"EI", "ED", "EM", "SC", "SN"}".
+> - E para duplicar as UFs para os tipos de tributações foi utilizado esse comando para inserir "= {"EI", "ED", "EM", "SC", "SN"}".
 
 ## 3. Base de tributações importadas de clientes
 
