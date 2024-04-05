@@ -40,16 +40,16 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 |***CLIENTE***  |***UF*** | ***ESTADO*** | ***CONFERÊNCIA***|
 | ----------| --------------| --------------| --------------|
-| BIG BOX | BA | BAHIA | **REVISADO** | 
+| BIG BOX | BA | BAHIA | **CONFERIDO** | 
 | DE ANGELINA | SC | SANTA CATARINA | **REVISAR** |
 | DELMORO | MT | MATO GROSSO | **REVISAR** |
-| BIG BOX | DF | DISTRITO FEDERAL | **REVISADO** |
-| BIG BOX | GO | GOIÁS | **REVISADO** |
-| BONANZA | PE | PERNAMBUCO | **REVISADO** |
+| BIG BOX | DF | DISTRITO FEDERAL | **CONFERIDO** |
+| BIG BOX | GO | GOIÁS | **CONFERIDO** |
+| BONANZA | PE | PERNAMBUCO | **CONFERIDO** |
 | DIFAL | PR | PARANÁ | **REVISAR** |
-| SERVE BEM | RJ | RIO DE JANEIRO | **REVISADO** |
-| BOM PREÇO | RN | RIO GRANDE DO NORTE | **REVISADO** |
-| COQUEIROS | RS | RIO GRANDE DO SUL | **REVISADO** |
+| SERVE BEM | RJ | RIO DE JANEIRO | **CONFERIDO** |
+| BOM PREÇO | RN | RIO GRANDE DO NORTE | **CONFERIDO** |
+| COQUEIROS | RS | RIO GRANDE DO SUL | **CONFERIDO** |
 | FONSECA | SP | SÃO PAULO | **FINALIZAR** |
 
 - Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem tratados os dados e importados em nosso banco.
