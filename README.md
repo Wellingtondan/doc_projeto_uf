@@ -38,7 +38,9 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 > [!NOTE]
 > Para criar a grade de tributação foi utilizada a ferramenta Power Query para duplicar o número de tributação para cada UF;
+> 
 > Com a ferramenta aberta, adicione uma nova coluna em "Adicionar Coluna - Coluna Personalizada" e insere o comando "= {"AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "EX", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"}";
+> 
 > E para duplicar as UFs para os tipos de tributações foi utilizado esse comando para inserir "= {"EI", "ED", "EM", "SC", "SN"}".
 
 ## 3. Base de tributações importadas de clientes
