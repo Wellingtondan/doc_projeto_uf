@@ -6,16 +6,16 @@ Iniciamos esse novo projeto no dia 01/03/2024, com base na tabela de capas do Se
 
 |***ESTADO***  |***UF*** | ***IMPORTADO*** | 
 | ----------| --------------| ----------|
-| ACRE | AC | SIM |
-| ALAGOAS | AL | TRATAR DADOS |
-| AMAZONAS | AM | TRATAR DADOS |
-| AMAPÁ | AP | SIM |
-| MATO GROSSO DO SUL | MS | SIM |
-| PARÁ | PA | TRATAR DADOS |
-| PARAÍBA | PB | SIM |
-| PIAUÍ | PI | SIM |
-| RONDÔNIA | RO | TRATAR DADOS |
-| TOCANTINS | TO | TRATAR DADOS |
+| ACRE | AC | **SIM** |
+| ALAGOAS | AL | **NÃO** |
+| AMAZONAS | AM | **NÃO** |
+| AMAPÁ | AP | **SIM** |
+| MATO GROSSO DO SUL | MS | **SIM** |
+| PARÁ | PA | **NÃO** |
+| PARAÍBA | PB | **SIM** |
+| PIAUÍ | PI | **SIM** |
+| RONDÔNIA | RO | **NÃO** |
+| TOCANTINS | TO | **NÃO** |
 
 - Totalizando a soma de 5 tabelas de capas importadas em nosso banco, isso se da por conta de tratar os dados conforme são identificados os benefícios de Cesta básica, Isenção, Redução específica, etc.
 
