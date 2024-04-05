@@ -32,7 +32,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 > [!IMPORTANT]
 > As bases de PB e PI não foram encontradas tributações ST com reduções de cesta básica, dessa forma contêm um número menor de tributações para essas bases!
 
-**Observação:** AP e PI foram montadas tributações de bebidas frias considerando o MVA para `Indústria / Importador` ou `Distribuidor / depósito / estabelecimento atacadista`, assim também para ***TO*** quando for desenvolvida a base.
+**Observação:** AP e PI foram montadas tributações dos segmentos `Cervejas, chopes, refrigerantes, águas e outras bebidas` considerando o MVA para `Indústria / Importador` ou `Distribuidor / depósito / estabelecimento atacadista`, assim também para ***TO*** quando for desenvolvida a base.
 
 >![image](https://github.com/Wellingtondan/doc_projeto_uf/assets/119419112/d65a1dc7-a1fc-4976-9a57-b8c2eff26a23)
 
