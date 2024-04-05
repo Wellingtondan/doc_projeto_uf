@@ -38,18 +38,19 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 
 ## 3. Base de tributações importadas de clientes
 
-|***CLIENTE***  |***UF*** | ***ESTADO*** |
+|***CLIENTE***  |***UF*** | ***ESTADO*** | ***CONFERÊNCIA***|
 | ----------| --------------| --------------|
-| MEIRA | BA | BAHIA |
-| BIG BOX | DF | DISTRITO FEDERAL |
-| BIG BOX | GO | GOIÁS |
-| DELMORO | MT | MATO GROSSO |
-| BONANZA | PE | PERNAMBUCO |
-| DIFAL | PR | PARANÁ |
-| SERVE BEM | RJ | RIO DE JANEIRO |
-| BOM PREÇO | RN | RIO GRANDE DO NORTE |
-| DE ANGELINA | SC | SANTA CATARINA |
-| FONSECA | SP | SÃO PAULO |
+| BIG BOX | BA | BAHIA | **REVISADO** | 
+| DE ANGELINA | SC | SANTA CATARINA | **REVISAR** |
+| DELMORO | MT | MATO GROSSO | **REVISAR** |
+| BIG BOX | DF | DISTRITO FEDERAL | **REVISADO** |
+| BIG BOX | GO | GOIÁS | **REVISADO** |
+| BONANZA | PE | PERNAMBUCO | **REVISADO** |
+| DIFAL | PR | PARANÁ | **REVISAR** |
+| SERVE BEM | RJ | RIO DE JANEIRO | **REVISADO** |
+| BOM PREÇO | RN | RIO GRANDE DO NORTE | **REVISADO** |
+| COQUEIROS | RS | RIO GRANDE DO SUL | **REVISADO** |
+| FONSECA | SP | SÃO PAULO | **FINALIZAR** |
 
 - Faltando exportar MG (Fonseca) e RS (Coqueiros) para serem tratados os dados e importados em nosso banco.
 - Totalizando a soma de 12 UFs de clientes em nosso banco.
@@ -71,6 +72,7 @@ Como serão feitas as conferências dos estados não atendidos?
 
 E quanto às atualizações? Faremos em intervalos regulares? Mensal, trimestral, semestral ou anualmente? Ou apenas quando forem contratados novos serviços tributários?
 
+6. Relatório (Sofia)
 
 
 
