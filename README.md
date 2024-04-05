@@ -25,7 +25,7 @@ Iniciamos esse novo projeto no dia 04/03/2024, com base na tabela de capas do Se
 
 ### 2. Grade de tributações desenvolvidas e importadas
 
-Após o desenvolvimento das capas de tributações dos estados de AC, MS, PB, PI e MS, foram estruturadas as grades de tributações por UF e importadas no banco de dados.
+Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB e PI, foram estruturadas as grades de tributações por UF e importadas no banco de dados.
 
 Esta em andamento a grade de tributação de AP, assim que finalizado, será importada a grade ao banco.
 
