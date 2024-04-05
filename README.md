@@ -39,7 +39,7 @@ Esta em andamento a grade de tributação de AP, assim que finalizado, será imp
 ## 3. Base de tributações importadas de clientes
 
 |***CLIENTE***  |***UF*** | ***ESTADO*** | ***CONFERÊNCIA***|
-| ----------| --------------| --------------|
+| ----------| --------------| --------------| --------------|
 | BIG BOX | BA | BAHIA | **REVISADO** | 
 | DE ANGELINA | SC | SANTA CATARINA | **REVISAR** |
 | DELMORO | MT | MATO GROSSO | **REVISAR** |
