@@ -80,8 +80,3 @@ Como temos um tempo de análise para os projetos tributários (Sofia), a estrutu
 - Como serão feitas as conferências dos estados não atendidos?
 
 - E quanto às atualizações? Faremos em intervalos regulares? Mensal, trimestral, semestral ou anualmente? Ou apenas quando forem contratados novos serviços tributários?
-
-6. Relatório (Sofia)
-
-
-
