@@ -30,7 +30,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 `Observação:` Das capas que ```NÃO``` foram importadas ao banco conforme citadas no quadro acima, já foram coletadas todas as NCM e CEST com previsão de ST, faltando verificar quais serão utilizadas como capas, quais são as alíquotas, quais as MVAs e quais os benefícios fiscais, e assim dar andamento ao próximo estado.
 
 > [!IMPORTANT]
-> As bases de PB e PI não foram encontradas tributações com reduções de cesta básica, sendo um número menor de tributações!
+> As bases de PB e PI não foram encontradas tributações ST com reduções de cesta básica, dessa forma contêm um número menor de tributações para essas bases!
 
 **Observação:** AP e PI foram montadas tributações de bebidas frias considerando o MVA para `Indústria / Importador` ou `Distribuidor / depósito / estabelecimento atacadista`, assim também para ***TO*** quando for desenvolvida a base.
 
