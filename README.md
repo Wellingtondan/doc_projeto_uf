@@ -58,9 +58,8 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 | SERVE BEM | RJ | RIO DE JANEIRO | **CONFERIDO** |
 | BOM PREÇO | RN | RIO GRANDE DO NORTE | **CONFERIDO** |
 | COQUEIROS | RS | RIO GRANDE DO SUL | **CONFERIDO** |
-| FONSECA | SP | SÃO PAULO | **FINALIZAR** |
+| FONSECA | SP | SÃO PAULO | **CONFERIDO** |
 
-- Faltando exportar MG (Fonseca), o arquivo foi extraído e falta apenas tratar os dados e importar em nosso banco.
 - Totalizando a soma de 12 UFs de clientes em nosso banco.
 
 > [!IMPORTANT]
