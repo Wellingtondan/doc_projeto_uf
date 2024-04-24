@@ -52,7 +52,7 @@ Após o desenvolvimento das capas de tributações dos estados de AC, AP, MS, PB
 | DELMORO | MT | MATO GROSSO | **REVISAR** |
 | BIG BOX | DF | DISTRITO FEDERAL | **CONFERIDO** |
 | BIG BOX | GO | GOIÁS | **CONFERIDO** |
-| FONSECA | MG | MINAS GERAIS | **IMPORTAR** |
+| FONSECA | MG | MINAS GERAIS | **CONFERIDO** |
 | BONANZA | PE | PERNAMBUCO | **CONFERIDO** |
 | DIFAL | PR | PARANÁ | **REVISAR** |
 | SERVE BEM | RJ | RIO DE JANEIRO | **CONFERIDO** |
